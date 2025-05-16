@@ -20090,3 +20090,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [16May2025 16:45:32.311] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [16May2025 16:59:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Hot Stuff]
 [16May2025 16:59:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Magma Wheel]
+[16May2025 17:09:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Tapping the Mantle]

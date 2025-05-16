@@ -26441,3 +26441,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [16May2025 16:58:05.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16May2025 16:59:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Hot Stuff]
 [16May2025 16:59:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Magma Wheel]
+[16May2025 17:03:05.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 17:03:05.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 17:08:05.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 17:08:05.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 17:09:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Tapping the Mantle]
