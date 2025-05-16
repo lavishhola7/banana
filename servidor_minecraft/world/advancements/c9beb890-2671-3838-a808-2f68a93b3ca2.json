@@ -1169,6 +1169,7 @@
       "minecraft:vindicator": "2025-05-08 00:33:06 +0000",
       "minecraft:spider": "2025-05-06 00:16:22 +0000",
       "minecraft:creeper": "2025-05-09 22:41:31 +0000",
+      "minecraft:zombified_piglin": "2025-05-16 17:25:03 +0000",
       "minecraft:cave_spider": "2025-05-06 00:33:49 +0000",
       "minecraft:enderman": "2025-05-10 01:19:43 +0000",
       "minecraft:zombie": "2025-05-06 00:21:34 +0000",
@@ -7739,6 +7740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
   "create:spout": {
     "criteria": {
       "0": "2025-05-16 17:02:38 +0000"
@@ -7757,15 +7764,51 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
   "create:belt": {
     "criteria": {
       "0": "2025-05-16 16:50:49 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
   "create:lava_wheel_00000": {
     "criteria": {
       "0": "2025-05-16 16:59:30 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-05-16 17:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-05-16 17:09:35 +0000"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2025-05-16 17:16:00 +0000"
     },
     "done": true
   },

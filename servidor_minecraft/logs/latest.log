@@ -20091,3 +20091,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [16May2025 16:59:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Hot Stuff]
 [16May2025 16:59:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Magma Wheel]
 [16May2025 17:09:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has reached the goal [Tapping the Mantle]
+[16May2025 17:38:10.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[16May2025 17:38:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[16May2025 17:38:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 17:38:24.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 17:38:24.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 17:38:24.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 17:38:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 17:38:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 17:38:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 17:38:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 17:38:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 17:38:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 17:38:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
