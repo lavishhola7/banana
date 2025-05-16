@@ -7734,27 +7734,9 @@
     },
     "done": true
   },
-  "create:glass_pipe": {
+  "create:belt": {
     "criteria": {
-      "0": "2025-05-16 17:03:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-16 17:25:04 +0000"
-    },
-    "done": true
-  },
-  "create:spout": {
-    "criteria": {
-      "0": "2025-05-16 17:02:38 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2025-05-16 16:59:30 +0000"
+      "0": "2025-05-16 16:50:49 +0000"
     },
     "done": true
   },
@@ -7764,21 +7746,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+  "create:mechanical_pump_0": {
     "criteria": {
-      "has_item": "2025-05-16 17:25:04 +0000"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-05-16 16:50:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-05-16 17:25:04 +0000"
+      "0": "2025-05-16 16:59:30 +0000"
     },
     "done": true
   },
@@ -7788,15 +7758,21 @@
     },
     "done": true
   },
-  "create:hose_pulley_lava": {
+  "create:spout": {
     "criteria": {
-      "0": "2025-05-16 17:09:35 +0000"
+      "0": "2025-05-16 17:02:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "create:glass_pipe": {
     "criteria": {
-      "has_gold_nugget": "2025-05-16 17:25:04 +0000"
+      "0": "2025-05-16 17:03:21 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-05-16 17:09:35 +0000"
     },
     "done": true
   },
@@ -7809,6 +7785,30 @@
   "create:drain": {
     "criteria": {
       "0": "2025-05-16 17:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-16 17:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-16 17:25:04 +0000"
     },
     "done": true
   },
