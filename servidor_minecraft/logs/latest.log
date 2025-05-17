@@ -20088,3 +20088,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [17May2025 22:13:42.036] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17May2025 22:13:42.036] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17May2025 22:13:42.036] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17May2025 23:08:39.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Agus2000 a server operator
+[17May2025 23:08:41.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
