@@ -7878,5 +7878,11 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-05-17 22:12:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
