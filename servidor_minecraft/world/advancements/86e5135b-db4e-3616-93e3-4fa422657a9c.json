@@ -69,6 +69,7 @@
       "pasture": "2025-05-05 21:58:12 +0000",
       "lavender_field": "2025-05-07 23:38:23 +0000",
       "prairie": "2025-05-05 21:45:10 +0000",
+      "undergrowth": "2025-05-18 21:09:18 +0000",
       "rainforest": "2025-05-07 23:30:38 +0000"
     },
     "done": false
@@ -4420,6 +4421,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-05-18 21:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-18 21:07:05 +0000"
@@ -4438,9 +4445,45 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_pink_daffodil": "2025-05-18 21:04:36 +0000"
+      "entered_nether": "2025-05-18 21:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-18 21:09:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-05-18 21:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-18 21:37:14 +0000"
     },
     "done": true
   },
