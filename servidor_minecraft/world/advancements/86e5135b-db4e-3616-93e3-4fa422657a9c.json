@@ -2227,6 +2227,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-18 20:57:01 +0000",
       "minecraft:skeleton": "2025-05-06 00:55:41 +0000",
       "minecraft:spider": "2025-05-06 00:42:01 +0000",
       "minecraft:creeper": "2025-05-08 01:05:29 +0000",
@@ -4089,6 +4090,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-18 20:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-18 20:23:52 +0000"
@@ -4167,6 +4174,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-18 20:49:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-18 20:41:30 +0000"
@@ -4206,6 +4219,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-18 20:44:31 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-05-18 20:52:14 +0000"
     },
     "done": true
   },

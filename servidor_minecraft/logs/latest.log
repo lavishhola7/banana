@@ -20108,3 +20108,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [18May2025 20:26:22.847] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=0}
 [18May2025 20:44:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [The Andesite Age]
 [18May2025 20:47:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Chest Slayer]
+[18May2025 20:53:05.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[18May2025 20:53:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[18May2025 20:54:50.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Agus2000[/100.111.81.7:53814] logged in with entity id 15004 at (2299.300000011921, -37.0, 1694.300000011921)
+[18May2025 20:54:50.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 joined the game
+[18May2025 20:57:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Voluntary Exile]
+[18May2025 20:58:08.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
+[18May2025 20:58:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
