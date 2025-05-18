@@ -388,6 +388,7 @@
       "minecraft:savanna_plateau": "2025-05-09 00:48:36 +0000",
       "minecraft:beach": "2025-05-07 23:23:36 +0000",
       "minecraft:dark_forest": "2025-05-08 00:58:09 +0000",
+      "minecraft:stony_peaks": "2025-05-18 20:41:56 +0000",
       "minecraft:sparse_jungle": "2025-05-08 00:20:39 +0000",
       "minecraft:lukewarm_ocean": "2025-05-06 00:52:36 +0000",
       "minecraft:river": "2025-05-06 00:10:48 +0000",
@@ -7976,16 +7977,27 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "create:contraption_actors": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-18 01:01:32 +0000",
-      "minecraft:soul_sand_valley": "2025-05-18 01:01:33 +0000"
+      "0": "2025-05-18 00:31:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:funnel": {
     "criteria": {
       "0": "2025-05-18 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-05-18 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-18 00:46:05 +0000"
     },
     "done": true
   },
@@ -7995,21 +8007,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-18 01:02:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-18 01:00:31 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-05-18 01:01:45 +0000"
     },
     "done": true
   },
@@ -8025,9 +8025,22 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "traded": "2025-05-18 00:46:05 +0000"
+      "minecraft:crimson_forest": "2025-05-18 01:01:32 +0000",
+      "minecraft:soul_sand_valley": "2025-05-18 01:01:33 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-18 01:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-18 01:02:05 +0000"
     },
     "done": true
   },
@@ -8043,15 +8056,27 @@
     },
     "done": true
   },
-  "create:contraption_actors": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "0": "2025-05-18 00:31:24 +0000"
+      "kill_mimic": "2025-05-18 20:47:27 +0000"
     },
     "done": true
   },
-  "create:portable_storage_interface": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "0": "2025-05-18 00:38:35 +0000"
+      "has_glow_ink_sac": "2025-05-18 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 20:21:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-05-18 20:47:34 +0000"
     },
     "done": true
   },
