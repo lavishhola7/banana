@@ -20115,3 +20115,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [18May2025 20:57:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Voluntary Exile]
 [18May2025 20:58:08.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
 [18May2025 20:58:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
+[18May2025 21:03:38.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/100.120.29.42:54980] logged in with entity id 17761 at (1767.1286756136055, 64.0, 1083.6247184472218)
+[18May2025 21:03:38.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
+[18May2025 21:07:05.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1735, y=58, z=1084} BlockPos{x=1736, y=55, z=1085}
+[18May2025 21:07:05.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1734, y=58, z=1083} BlockPos{x=1734, y=57, z=1083}
+[18May2025 21:08:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [They Grow Up So Fast]
+[18May2025 21:09:18.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [We Need to Go Deeper]
