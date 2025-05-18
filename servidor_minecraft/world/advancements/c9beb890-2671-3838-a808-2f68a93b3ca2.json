@@ -3186,6 +3186,7 @@
       "wood": "2025-05-07 23:30:20 +0000",
       "skyslime_vine": "2025-05-07 23:33:58 +0000",
       "vine": "2025-05-07 23:34:14 +0000",
+      "slimesteel": "2025-05-18 00:46:06 +0000",
       "blazing_bone": "2025-05-07 23:34:14 +0000",
       "bone": "2025-05-10 01:16:11 +0000",
       "hepatizon": "2025-05-07 23:30:20 +0000",
@@ -3869,7 +3870,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-05-09 00:49:46 +0000"
+      "potato": "2025-05-18 00:49:20 +0000",
+      "wheat": "2025-05-09 00:49:46 +0000",
+      "carrot": "2025-05-18 00:36:07 +0000"
     },
     "done": false
   },
@@ -7968,9 +7971,27 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-18 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-18 00:46:05 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-05-18 00:31:24 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-05-18 00:38:35 +0000"
     },
     "done": true
   },
