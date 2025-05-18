@@ -92,6 +92,7 @@
       "mystic_grove": "2025-05-06 00:55:55 +0000",
       "cold_desert": "2025-05-09 01:12:33 +0000",
       "old_growth_woodland": "2025-05-07 23:24:35 +0000",
+      "crystalline_chasm": "2025-05-18 01:03:28 +0000",
       "orchard": "2025-05-06 00:41:26 +0000",
       "field": "2025-05-09 00:59:33 +0000",
       "overgrown_greens": "2025-05-08 00:58:21 +0000",
@@ -1165,11 +1166,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-06 00:45:25 +0000",
+      "minecraft:blaze": "2025-05-18 00:59:58 +0000",
       "minecraft:skeleton": "2025-05-07 23:24:26 +0000",
+      "minecraft:hoglin": "2025-05-18 01:00:29 +0000",
       "minecraft:vindicator": "2025-05-08 00:33:06 +0000",
+      "minecraft:magma_cube": "2025-05-18 01:04:53 +0000",
       "minecraft:spider": "2025-05-06 00:16:22 +0000",
       "minecraft:creeper": "2025-05-09 22:41:31 +0000",
       "minecraft:zombified_piglin": "2025-05-16 17:25:03 +0000",
+      "minecraft:wither_skeleton": "2025-05-18 01:03:36 +0000",
       "minecraft:cave_spider": "2025-05-06 00:33:49 +0000",
       "minecraft:enderman": "2025-05-10 01:19:43 +0000",
       "minecraft:zombie": "2025-05-06 00:21:34 +0000",
@@ -7971,15 +7976,70 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-18 01:01:32 +0000",
+      "minecraft:soul_sand_valley": "2025-05-18 01:01:33 +0000"
+    },
+    "done": false
+  },
   "create:funnel": {
     "criteria": {
       "0": "2025-05-18 00:38:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-18 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-18 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-18 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-18 01:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-18 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 01:00:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-18 00:46:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-18 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-05-18 01:03:38 +0000"
     },
     "done": true
   },
