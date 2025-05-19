@@ -4475,18 +4475,6 @@
     },
     "done": true
   },
-  "create_ltab:dune": {
-    "criteria": {
-      "gugu": "2025-05-18 22:02:09 +0000"
-    },
-    "done": true
-  },
-  "create:funnel": {
-    "criteria": {
-      "0": "2025-05-18 21:39:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-05-18 21:37:14 +0000"
@@ -4496,6 +4484,18 @@
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-05-18 21:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-18 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "create_ltab:dune": {
+    "criteria": {
+      "gugu": "2025-05-18 22:02:09 +0000"
     },
     "done": true
   },
