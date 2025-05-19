@@ -20108,3 +20108,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [19May2025 22:33:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Made agus200 no longer a server operator]
 [19May2025 22:33:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
 [19May2025 22:33:38.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
+[19May2025 23:31:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Made Agus2000 no longer a server operator]
+[19May2025 23:31:54.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/100.120.29.42:61736] logged in with entity id 33198 at (1723.6873273817025, 79.0, 1124.06052050935)
+[19May2025 23:31:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
+[19May2025 23:36:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Buff Out Those Scratches]
+[19May2025 23:36:34.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has reached the goal [Captain Nemo]
+[19May2025 23:40:31.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Agus2000> 2403 65 1970
+[19May2025 23:43:38.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Teleported genaraab to 1732.500000, 66.000000, 1077.500000]
+[19May2025 23:46:42.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Teleported genaraab to 2400.500000, 63.000000, 1970.500000]
+[19May2025 23:48:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has reached the goal [Earthslime Island]
+[19May2025 23:48:21.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Teleported genaraab to 1732.500000, 66.000000, 1077.500000]
+[19May2025 23:57:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Friendship Found]

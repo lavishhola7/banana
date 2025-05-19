@@ -8659,6 +8659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-19 23:53:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
     "criteria": {
       "has_item": "2025-05-19 22:56:06 +0000"
@@ -8680,6 +8686,12 @@
   "tconstruct:recipes/decorations/tables/crafting_station": {
     "criteria": {
       "has_item": "2025-05-19 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-05-19 23:55:12 +0000"
     },
     "done": true
   },
