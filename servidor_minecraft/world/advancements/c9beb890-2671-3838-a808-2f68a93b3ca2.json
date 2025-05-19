@@ -8545,6 +8545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-19 22:07:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-05-19 21:20:30 +0000"
@@ -8554,6 +8560,24 @@
   "tconstruct:recipes/misc/common/materials_and_you": {
     "criteria": {
       "has_item": "2025-05-19 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-05-19 22:10:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-19 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 22:08:17 +0000"
     },
     "done": true
   },
@@ -8569,6 +8593,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-19 22:08:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_the_recipe": "2025-05-19 22:07:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_grape_seeds": "2025-05-19 22:10:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/crafting_station": {
     "criteria": {
       "has_item": "2025-05-19 21:20:30 +0000"
@@ -8578,6 +8620,54 @@
   "tconstruct:recipes/decorations/tables/part_chest": {
     "criteria": {
       "has_item": "2025-05-19 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-19 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "excessive_building:recipes/building_blocks/polished_stone": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-19 22:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-19 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-05-19 22:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 22:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-19 22:07:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_the_recipe": "2025-05-19 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-19 22:07:00 +0000"
     },
     "done": true
   },
@@ -8593,15 +8683,39 @@
     },
     "done": true
   },
+  "bakery:recipes/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2025-05-19 22:10:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-05-19 22:09:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2025-05-19 21:20:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 22:08:17 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_station": {
     "criteria": {
       "crafted_block": "2025-05-19 21:22:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-19 22:09:37 +0000"
     },
     "done": true
   },
