@@ -20099,3 +20099,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [19May2025 22:16:31.940] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
 [19May2025 22:16:31.940] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
 [19May2025 22:16:31.940] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[19May2025 22:17:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 has made the advancement [Jennifer Dumped Me]
+[19May2025 22:30:35.103] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/iron_gen_v1_.nbt
+[19May2025 22:31:04.156] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/iron_gen_v2.nbt
+[19May2025 22:31:36.005] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/beginner_iron_farm_0NM1tSfTSu.nbt
+[19May2025 22:32:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made agus200 a server operator
+[19May2025 22:32:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Agus2000 a server operator
+[19May2025 22:33:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Made agus200 no longer a server operator]
+[19May2025 22:33:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Creative Mode]
+[19May2025 22:33:38.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Agus2000: Set own game mode to Survival Mode]
