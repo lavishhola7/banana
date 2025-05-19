@@ -4523,9 +4523,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 02:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
     },
     "done": true
   },
@@ -4547,9 +4565,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
     "criteria": {
       "has_keypad_chest": "2025-05-19 01:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 02:23:38 +0000"
     },
     "done": true
   },
@@ -4565,6 +4601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-19 02:01:06 +0000"
@@ -4574,6 +4616,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-19 02:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
     },
     "done": true
   },
@@ -4589,6 +4637,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-19 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/spruce_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-05-19 01:57:38 +0000"
@@ -4598,6 +4664,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-19 02:01:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
     },
     "done": true
   },
@@ -4616,6 +4688,18 @@
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-05-19 02:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
     },
     "done": true
   },
@@ -4643,6 +4727,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-05-19 02:00:02 +0000"
@@ -4652,6 +4748,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-19 02:01:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-19 02:06:39 +0000"
     },
     "done": true
   },
@@ -4670,6 +4772,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-19 02:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-19 02:23:38 +0000"
     },
     "done": true
   },
@@ -4694,6 +4802,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-19 02:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-19 02:06:39 +0000"
     },
     "done": true
   },

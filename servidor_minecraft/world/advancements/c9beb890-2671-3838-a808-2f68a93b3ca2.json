@@ -3877,6 +3877,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-05-19 02:06:02 +0000",
       "sugar_cane": "2025-05-19 01:48:39 +0000",
       "potato": "2025-05-18 00:49:20 +0000",
       "wheat": "2025-05-09 00:49:46 +0000",
@@ -8100,9 +8101,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/birch_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
     },
     "done": true
   },
@@ -8232,6 +8251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
@@ -8241,6 +8266,18 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
     },
     "done": true
   },
@@ -8265,6 +8302,12 @@
   "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-05-19 01:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
     },
     "done": true
   },
@@ -8310,6 +8353,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-05-19 01:51:08 +0000"
@@ -8319,6 +8374,12 @@
   "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
     "criteria": {
       "has_item": "2025-05-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
     },
     "done": true
   },
@@ -8358,6 +8419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
@@ -8376,6 +8443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 01:50:57 +0000"
@@ -8385,6 +8458,12 @@
   "securitycraft:recipes/transportation/acacia_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
     },
     "done": true
   },
@@ -8424,6 +8503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-05-19 01:59:44 +0000"
@@ -8451,6 +8536,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-05-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-19 02:10:24 +0000"
     },
     "done": true
   },
