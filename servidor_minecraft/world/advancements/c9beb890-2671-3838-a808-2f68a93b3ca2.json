@@ -1175,6 +1175,7 @@
       "minecraft:spider": "2025-05-06 00:16:22 +0000",
       "minecraft:creeper": "2025-05-09 22:41:31 +0000",
       "minecraft:zombified_piglin": "2025-05-16 17:25:03 +0000",
+      "minecraft:witch": "2025-05-19 01:55:48 +0000",
       "minecraft:wither_skeleton": "2025-05-18 01:03:36 +0000",
       "minecraft:cave_spider": "2025-05-06 00:33:49 +0000",
       "minecraft:enderman": "2025-05-10 01:19:43 +0000",
@@ -8099,6 +8100,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
@@ -8144,6 +8151,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 01:50:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
     },
     "done": true
   },
@@ -8195,6 +8208,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/gadgets/fancy_frame/clear": {
     "criteria": {
       "has_item": "2025-05-19 01:41:52 +0000"
@@ -8207,6 +8226,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
@@ -8216,6 +8241,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2025-05-19 02:02:34 +0000"
     },
     "done": true
   },
@@ -8243,6 +8274,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/jar": {
     "criteria": {
       "has_glass_pane": "2025-05-19 01:41:52 +0000"
@@ -8264,6 +8301,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-05-19 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
     },
     "done": true
   },
@@ -8294,6 +8337,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-19 01:50:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
     },
     "done": true
   },
@@ -8333,6 +8382,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-05-19 01:51:08 +0000"
@@ -8342,6 +8397,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 01:50:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-19 01:58:01 +0000"
     },
     "done": true
   },
@@ -8360,6 +8421,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 01:50:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-05-19 01:59:44 +0000"
     },
     "done": true
   },
