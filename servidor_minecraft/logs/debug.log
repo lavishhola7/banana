@@ -26756,3 +26756,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [20May2025 00:16:37.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dietke'/44679, l='ServerLevel[world]', x=1727.02, y=79.00, z=1114.28] died: Dietke (Staying) was zapped to death by Agus2000
 [20May2025 00:18:12.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20May2025 00:18:12.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:21:36.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Set own game mode to Creative Mode]
+[20May2025 00:21:45.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Set own game mode to Survival Mode]
+[20May2025 00:22:10.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 moved wrongly!
+[20May2025 00:22:39.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ide'/44682, l='ServerLevel[world]', x=1718.65, y=79.50, z=1117.98] died, message: 'Ide (Staying) was slain by Agus2000'
+[20May2025 00:22:39.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ide'/44682, l='ServerLevel[world]', x=1718.65, y=79.50, z=1117.98] died: Ide (Staying) was slain by Agus2000
+[20May2025 00:23:12.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 00:23:12.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:24:21.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arne'/44681, l='ServerLevel[world]', x=1720.94, y=80.00, z=1082.00] died, message: 'Arne was frozen solid by Agus2000's'
+[20May2025 00:24:21.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arne'/44681, l='ServerLevel[world]', x=1720.94, y=80.00, z=1082.00] died: Arne was frozen solid by Agus2000's
+[20May2025 00:24:52.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Wipke'/44680, l='ServerLevel[world]', x=1720.88, y=79.56, z=1128.45] died, message: 'Wipke was frozen solid by Agus2000's'
+[20May2025 00:24:52.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Wipke'/44680, l='ServerLevel[world]', x=1720.88, y=79.56, z=1128.45] died: Wipke was frozen solid by Agus2000's
+[20May2025 00:25:13.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gabriele'/44677, l='ServerLevel[world]', x=1729.66, y=79.00, z=1127.28] died, message: 'Gabriele was slain by Agus2000'
+[20May2025 00:25:13.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gabriele'/44677, l='ServerLevel[world]', x=1729.66, y=79.00, z=1127.28] died: Gabriele was slain by Agus2000
+[20May2025 00:25:35.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katrin'/44678, l='ServerLevel[world]', x=1733.50, y=79.00, z=1127.83] died, message: 'Katrin was frozen solid by Agus2000's'
+[20May2025 00:25:35.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katrin'/44678, l='ServerLevel[world]', x=1733.50, y=79.00, z=1127.83] died: Katrin was frozen solid by Agus2000's
+[20May2025 00:25:39.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Crops of the Wild]
+[20May2025 00:26:49.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Cover Me with Diamonds]
+[20May2025 00:26:53.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['nico'/44674, l='ServerLevel[world]', x=1717.03, y=79.13, z=1129.50] died, message: 'nico was zapped to death by Agus2000'
+[20May2025 00:26:53.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['nico'/44674, l='ServerLevel[world]', x=1717.03, y=79.13, z=1129.50] died: nico was zapped to death by Agus2000
+[20May2025 00:27:18.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: genaraab lost connection: Disconnected
+[20May2025 00:27:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab left the game
+[20May2025 00:27:22.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[20May2025 00:27:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[20May2025 00:27:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20May2025 00:27:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20May2025 00:27:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20May2025 00:27:44.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20May2025 00:27:44.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20May2025 00:27:45.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20May2025 00:27:45.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20May2025 00:27:45.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 00:27:45.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:27:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20May2025 00:27:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20May2025 00:27:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20May2025 00:27:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20May2025 00:27:45.370] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[20May2025 00:27:45.370] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[20May2025 00:27:45.412] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[20May2025 00:27:45.412] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[20May2025 00:27:45.413] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[20May2025 00:27:45.413] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[20May2025 00:27:45.415] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[20May2025 00:27:45.415] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

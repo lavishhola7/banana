@@ -4854,6 +4854,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-05-20 00:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-20 00:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-20 00:03:41 +0000"
@@ -4869,6 +4881,12 @@
   "excessive_building:recipes/building_blocks/gold_grate": {
     "criteria": {
       "has_gold_block": "2025-05-19 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "excessive_building:recipes/building_blocks/emerald_bricks": {
+    "criteria": {
+      "has_emerald": "2025-05-20 00:21:43 +0000"
     },
     "done": true
   },
@@ -4905,6 +4923,12 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-20 00:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-20 00:21:43 +0000"
     },
     "done": true
   },
