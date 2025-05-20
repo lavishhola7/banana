@@ -5,3 +5,8 @@
 [20May2025 00:07:07.458] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/medium_cobble_gen_v1.nbt
 [20May2025 00:07:28.059] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/large_cobble_gen_v1_1.nbt
 [20May2025 00:07:42.858] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/andesite_alloy_farm_v1.nbt
+[20May2025 00:13:21.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 moved wrongly!
+[20May2025 00:16:23.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nantke'/44676, l='ServerLevel[world]', x=1723.16, y=79.00, z=1119.30] died, message: 'Nantke (Staying) was zapped to death by Agus2000'
+[20May2025 00:16:23.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nantke'/44676, l='ServerLevel[world]', x=1723.16, y=79.00, z=1119.30] died: Nantke (Staying) was zapped to death by Agus2000
+[20May2025 00:16:37.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dietke'/44679, l='ServerLevel[world]', x=1727.02, y=79.00, z=1114.28] died, message: 'Dietke (Staying) was zapped to death by Agus2000'
+[20May2025 00:16:37.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dietke'/44679, l='ServerLevel[world]', x=1727.02, y=79.00, z=1114.28] died: Dietke (Staying) was zapped to death by Agus2000

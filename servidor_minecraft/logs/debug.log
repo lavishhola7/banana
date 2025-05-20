@@ -26719,3 +26719,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [20May2025 00:07:42.858] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/andesite_alloy_farm_v1.nbt
 [20May2025 00:08:12.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20May2025 00:08:12.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:12:48.455] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [86e5135b-db4e-3616-93e3-4fa422657a9c]
+[20May2025 00:12:49.777] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [86e5135b-db4e-3616-93e3-4fa422657a9c]
+[20May2025 00:13:12.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 00:13:12.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:13:21.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 moved wrongly!
+[20May2025 00:14:12.018] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:13.655] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:14.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:15.004] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:15.463] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:15.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:16.562] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:17.012] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:17.457] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:17.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:18.622] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:19.111] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:19.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:20.057] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:20.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:20.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:21.456] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:21.912] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:23.415] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:23.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:27.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [86e5135b-db4e-3616-93e3-4fa422657a9c]
+[20May2025 00:14:29.272] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [86e5135b-db4e-3616-93e3-4fa422657a9c]
+[20May2025 00:14:31.304] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [38fd8ec7-6b74-4d5b-bdf9-ac52f89519f1]
+[20May2025 00:14:33.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [86e5135b-db4e-3616-93e3-4fa422657a9c]
+[20May2025 00:14:34.782] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [0d4635b7-c208-4704-a97f-76e90522b427]
+[20May2025 00:14:36.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [86e5135b-db4e-3616-93e3-4fa422657a9c]
+[20May2025 00:16:23.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nantke'/44676, l='ServerLevel[world]', x=1723.16, y=79.00, z=1119.30] died, message: 'Nantke (Staying) was zapped to death by Agus2000'
+[20May2025 00:16:23.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nantke'/44676, l='ServerLevel[world]', x=1723.16, y=79.00, z=1119.30] died: Nantke (Staying) was zapped to death by Agus2000
+[20May2025 00:16:37.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dietke'/44679, l='ServerLevel[world]', x=1727.02, y=79.00, z=1114.28] died, message: 'Dietke (Staying) was zapped to death by Agus2000'
+[20May2025 00:16:37.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dietke'/44679, l='ServerLevel[world]', x=1727.02, y=79.00, z=1114.28] died: Dietke (Staying) was zapped to death by Agus2000
+[20May2025 00:18:12.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 00:18:12.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
