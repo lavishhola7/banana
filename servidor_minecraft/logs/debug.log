@@ -26708,3 +26708,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'excessive_building:cobbled_an
 [19May2025 23:57:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Friendship Found]
 [19May2025 23:58:12.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19May2025 23:58:12.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:03:12.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 00:03:12.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 00:04:28.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Set own game mode to Creative Mode]
+[20May2025 00:05:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [genaraab: Set own game mode to Survival Mode]
+[20May2025 00:05:54.633] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/small_cobble_gen_v1.nbt
+[20May2025 00:06:51.189] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/oc_super_compact_cobble_gen_v3_9wusgfz9vt.nbt
+[20May2025 00:07:07.458] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/medium_cobble_gen_v1.nbt
+[20May2025 00:07:28.059] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/large_cobble_gen_v1_1.nbt
+[20May2025 00:07:42.858] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Agus2000/andesite_alloy_farm_v1.nbt
+[20May2025 00:08:12.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 00:08:12.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
